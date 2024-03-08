@@ -1,0 +1,2 @@
+# How-glucosinolate-correlated-positions-affect-their-gene-expression-levels-in-Brassica-Napus-plants-
+My analysis was performed in R Studio. It first involved finding a dataset that contained Brassica Napus's complete genetic information from scholarly websites online. I then compared differences in gene expression in different chromosomal sections and correlated the intensity of gene expression with the genes' positions.
