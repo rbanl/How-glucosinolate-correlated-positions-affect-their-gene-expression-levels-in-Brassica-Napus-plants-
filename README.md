@@ -1,6 +1,9 @@
-# How-glucosinolate-correlated-positions-affect-their-gene-expression-levels-in-Brassica-Napus-plants-
 
-Full details of how my analysis was performed:
+# HOW POSITIONS AFFECT GLUCOSINOLATE CORRELATED GENES' GENE EXPRESSION LEVELS IN BRASSICA NAPUS PLANTS
+
+Background : The oil seed rape Brassica Napus is a major contributor to global oilseed production and its demand is increasing due to greater need for industrial oils(Kimber and McGregor, 1995). Gene position is a factor affecting gene expression and production of traits like glucosinolate content. (Ferrai et al., 2010). Different chromosomal regions might have different features. Some chromosomal regions might have heterochromatin which silences transcripts (Schneider, R. and Grosschedl, R., 2007) and reduces gene expression therefore affecting the production of a trait.  I hypothesised that significantly correlated genes to the glucosinolate trait are distributed unevenly and are more correlated at lower positions. Knowledge about ranked positions might aid genetic manipulation attempts and lead to larger industrial oils yields.
+
+# Full details of how my analysis was performed:
 
 To test my hypothesis of an uneven distribution of FDR significantly correlated genes, I obtained all the genes that had a FDR value of less than 0.05 from the “final ” dataset I produced. I used the subset 4 times, 1 for each section I allocated to chromosome 1.This was done for the purpose of the analysis. Each subset a set number of positions. The positions represent the genes’ rank orders Each subset also contained code that specified which chromosome the data should be extracted from. Of the 27 significantly correlated genes found, 17 of them were located in the 1st  subset .6,3 and 1  more were found. My hypothesis is supported by both of these findings and most of the results appear to be consistent with research. Most active genes are found in euchromatin (Murakami, 2013) which is at the distal parts of chromosomes It is also not uncommon to find phenotypes like cancer being associated with particular regions on chromosomes. (Thomassen, Tan and Kruse, 2008). The 22 genes found in the first section would correspond to the beginning of the periphery of a chromosome.This skew in  significantly correlated gene distribution might be caused by that region of DNA having hypermutable sections , which could be full of minisatellites at a large number of gene positions. Microsatellites tend to be G-C rich  (Poulsen, Kahl and Weising, 1993) and therefore may be prone to a higher mutation rate. In the Poulsen study, it was shown that higher levels of some lead to intraspecies polymorphism. In B.Napus  , it is possible that higher levels a particular minisatellite increased the chances of proliferation of the 17 genes in a small  section.
 
@@ -17,7 +20,7 @@ Although the data doesn’t present the actual positions of the genes , it prese
 
 
 
-PLEASE SEE BELOW FOR THE CODE:
+# PLEASE SEE BELOW FOR THE CODE:
 
 
 Supplementary methods
