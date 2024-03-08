@@ -22,7 +22,6 @@ Although the data doesn’t present the actual positions of the genes , it prese
 
 #PLEASE SEE BELOW FOR THE CODE:
 
-Supplementary methods
 	
 TThe distribution of  glucosinolate correlated genes  and differing expression levels in different
 chromosome territories in Brassica Napus  from the the OSR101 data set                                            
